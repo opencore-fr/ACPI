@@ -1,2 +1,2 @@
-# ACPI
-https://acpi.opencore.pressynou.ch
+# Page 1
+
